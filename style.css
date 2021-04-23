@@ -47,3 +47,12 @@
     height: 300px;
     width: 100%;
 }
+
+#alumniList img {
+    height: 300px;
+}
+
+#footer {
+    height: 20px;
+    background-color: #000000;
+}
